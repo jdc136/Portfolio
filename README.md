@@ -18,6 +18,6 @@ I work as an IT Analyst for a Laboratory Company in the Western United States. I
   - Familiar: PowerApps
 - Programming:
   - Production: VBA
-  - Familiar: C#, Java
+  - Familiar: C#, Java, HTML, CSS, JavaScript
 
 I work remotely and live with my wife, dog, and cat. I enjoy spending time outdoors with my wife and dog, cooking, reading, coding, and various home improvement projects.
