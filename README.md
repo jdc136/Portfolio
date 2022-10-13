@@ -7,17 +7,4 @@ Hi! Below are links to projects and exercises I have worked on demonstrating ski
 - [Miscellaneous C# Exercises](https://github.com/jdcollier136/CSharp-Projects)
 
 # About Me
-I work as a Software Programmer for a Laboratory Company in the Western United States. I hold a B.A. from Boston College. Below are a list of my tech skills/competencies: 
-- SQL: 
-  - Production: T-SQL, PL/SQL
-  - Familiar: CCL
-- Reporting: 
-  - Production: SSRS, Tableau, DA2, Excel
-- Low-Code:
-  - Production: OutSystems, InfoPath/SharePoint
-  - Familiar: PowerApps
-- Programming:
-  - Production: VBA, C#
-  - Familiar: Java, HTML, CSS, JavaScript
-
-I work remotely and live with my wife, dog, and cat. I enjoy spending time outdoors with my wife and dog, cooking, reading, coding, and various home improvement projects.
+Please see my [LinkedIn profile](www.linkedin.com/in/jared-collier) for more information about me.
